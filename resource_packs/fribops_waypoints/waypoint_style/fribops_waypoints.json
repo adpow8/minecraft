@@ -2,6 +2,7 @@
   "near_distance": 128,
   "far_distance": 332,
   "sprites": [
-    "minecraft:hud/locator_bar_dot/adpow"
+    "minecraft:adpow",
+    "minecraft:Hereticle"
   ]
 }
