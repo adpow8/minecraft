@@ -1,0 +1,31 @@
+{
+    "name": "Fletchinder",
+    "offsets": {
+        "DEFAULT": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "HOVERING": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "FLYING": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "SUSPENDED": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    "baseSpeedModifier": 1,
+    "landSpeedModifier": 0.93,
+    "waterSpeedModifier": 1.12,
+    "airSpeedModifier": 3.25,
+    "forms": [
+    ]
+}
